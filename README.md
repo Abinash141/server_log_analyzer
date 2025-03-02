@@ -1,2 +1,2 @@
 # server_log_analyzer
-This python app lets you analyze your server logs. All the suspicious IP address are flagged and it also shows you a graph of the most ip address and search.
+A Python application designed to help you analyze your server logs. This tool flags suspicious IP addresses and provides a visual representation of the most frequent IP addresses and search terms. Perfect for system administrators and developers who want to monitor server activity and identify potential security threats.
